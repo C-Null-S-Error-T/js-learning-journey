@@ -23,3 +23,6 @@ var num2 = 0.2;
 var sum = num1 + num2;
 console.log(sum.toFixed(1)); //the sum result is 0.3
 // Node # toFixed() she convert a number into a string, rounding to a specified number of decimals. The toFixed() method formats a number using fixed-point notation.
+var num1 = 50/0;
+console.log(num1);
+// Node # Infinity is a special value that represents positive infinity. It is greater than any other number.
