@@ -23,4 +23,3 @@ var isBad = false;
 console.log(isGood);
 console.log(isBad);
 console.log(typeof isGood);
-console.log(typeof isBad);
