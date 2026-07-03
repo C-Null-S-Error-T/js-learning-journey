@@ -1,0 +1,13 @@
+// var orangePrigee = 29;
+// console.log(orangePrigee);
+// console.log(typeof orangePrigee);
+// var applePrice = '39';
+// console.log(applePrice);
+// console.log(typeof applePrice);
+// var orangePrigee = 29;
+// var applePrice = 39;
+// console.log(orangePrigee+applePrice);
+var orangePrigee = 29;
+var applePrice = '39';
+var applePrice = parseInt(applePrice);
+console.log(orangePrigee+applePrice);
