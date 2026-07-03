@@ -14,3 +14,13 @@ var age;
 console.log(age); // undefined
 console.log(highat);
 console.log(many);
+var name = "Habibur Rahman Habib";
+console.log(name);
+console.log(typeof name);//see the type of variable;
+var manners = "good";
+var isGood = true;
+var isBad = false;
+console.log(isGood);
+console.log(isBad);
+console.log(typeof isGood);
+console.log(typeof isBad);
